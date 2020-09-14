@@ -2,6 +2,10 @@
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/akshatvg/LastMinutePPTFrontend?logo=github&style=social)](https://github.com/akshatvg/) [![GitHub last commit](https://img.shields.io/github/last-commit/akshatvg/LastMinutePPTFrontend?style=social&logo=git)](https://github.com/akshatvg/) [![GitHub stars](https://img.shields.io/github/stars/akshatvg/LastMinutePPTFrontend?style=social)](https://github.com/akshatvg/LastMinutePPTFrontend/stargazers) [![GitHub forks](https://img.shields.io/github/forks/akshatvg/LastMinutePPTFrontend?style=social&logo=git)](https://github.com/akshatvg/LastMinutePPTFrontend/network)
 
+This project was made as a part of submission to Hopshack-2020.
+
+Link to our devpost [submission](https://devpost.com/software/last-minute-ppts).
+
 Project which automatically generates crucial business and leisure presentation slides based on what you say in real time.
 
 <p align="center">
@@ -17,7 +21,7 @@ Project which automatically generates crucial business and leisure presentation 
 
 ## Useful Links
 
-- [Backend Repo](https://github.com/ramaneswaran/LastMinutePPTbackend)
+- [Backend Repo](https://github.com/Devil39/LastMinutePPTbackend)
 
 ## Requirements
 
